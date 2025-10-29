@@ -4,6 +4,8 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 Explore these projects to see how I design, automate, and secure identity systems that help improve operations and reduce risk.  
 
 ---
+## 👩🏻‍💻 IT Support/Help Desk Projects
+-**
 
 ## 🛡️ Identity and Access Management (IAM) Projects  
 - **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
