@@ -17,8 +17,7 @@ Explore these projects to see how I design, automate, and secure identity system
 ---
 
 ## ⚠️ Vulnerability Management Projects  
-- **[Vulnerability Assessment & Risk Reporting](https://github.com/joshuaagyapong/vulnerability-management-lab)**  
-- **Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)**  
+- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)**  
 
 ---
 
