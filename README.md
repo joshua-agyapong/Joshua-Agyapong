@@ -23,7 +23,7 @@ Explore these projects to see how I design, automate, and secure identity system
 
 ## 🚨 Threat Detection & Security Operations  
 - **[IAM Threat Hunt: Unauthorized Access Attempt](https://github.com/joshuaagyapong/iam-threat-hunt)**  
-- **[Suspicious Admin Escalation Investigation](https://github.com/joshuaagyapong/threat-detection-lab)**  
+- **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
 ---
 
