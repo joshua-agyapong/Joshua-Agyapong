@@ -13,19 +13,20 @@ Explore these projects to see how I design, automate, and secure identity system
 ---
 
 ## ⚠️ Vulnerability Management Projects  
-- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)**  
+- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)** 
 
 ---
 
 ## 🚨 Threat Detection & Security Operations  
-- **[IAM Threat Hunt: Unauthorized Access Attempt](https://github.com/joshuaagyapong/iam-threat-hunt)**  
+- **[Brute Force Attempt Detection]()**  
+- **[PowerShell Suspicious Web Request]()** 
 - **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
 ---
 
 ## 🤳 Connect With Me  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
+
 
 [linkedin]: https://linkedin.com/in/joshuaagyapong  
 [github]: https://github.com/joshuaagyapong
