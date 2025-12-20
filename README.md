@@ -9,10 +9,6 @@ Explore these projects to see how I design, automate, and secure identity system
 
 ## 🛡️ Identity and Access Management (IAM) Projects  
 - **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
-- **[SCIM Sync between Okta and Entra ID](https://github.com/joshuaagyapong/entra-id-scim-sync)**  
-- **[OIDC Token-Based Authentication Lab](https://github.com/joshuaagyapong/oidc-auth-api-lab)**  
-- **[CyberArk Privileged Access Simulation](https://github.com/joshuaagyapong/cyberark-pam-lab)**  
-- **[AWS IAM Least Privilege Access](https://github.com/joshuaagyapong/aws-iam-access-control)**  
 
 ---
 
