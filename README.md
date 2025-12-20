@@ -26,7 +26,8 @@ Explore these projects to see how I design, automate, and secure identity system
 ---
 
 ## 🤳 Connect With Me  
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
 [linkedin]: https://linkedin.com/in/joshuaagyapong  
 [github]: https://github.com/joshuaagyapong
