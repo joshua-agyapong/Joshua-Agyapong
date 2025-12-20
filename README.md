@@ -3,12 +3,6 @@
 I’m passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work spans **Identity and Access Management (IAM)**, **vulnerability management**, and **threat detection**, giving me the chance to explore the fast-moving world of modern security.  
 Explore these projects to see how I design, automate, and secure identity systems that help improve operations and reduce risk.  
 
----
-## 👩🏻‍💻 IT Support/Help Desk Projects
-- **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)*
-
-## 🛡️ Identity and Access Management (IAM) Projects  
-- **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
 
 ---
 
@@ -22,6 +16,13 @@ Explore these projects to see how I design, automate, and secure identity system
 - **[Brute Force Attempt Detection]()**  
 - **[PowerShell Suspicious Web Request]()** 
 - **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
+
+---Extra Projects 
+## 👩🏻‍💻 IT Support/Help Desk Projects
+- **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)*
+
+## 🛡️ Identity and Access Management (IAM) Projects  
+- **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
 
 ---
 
