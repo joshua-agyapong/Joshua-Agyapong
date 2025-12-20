@@ -17,7 +17,8 @@ Explore these projects to see how I design, automate, and secure identity system
 - **[PowerShell Suspicious Web Request]()** 
 - **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
----Extra Projects 
+---
+**Extra Projects **
 ## 👩🏻‍💻 IT Support/Help Desk Projects
 - **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)*
 
