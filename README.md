@@ -1,7 +1,6 @@
 # [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cybersecurity & IAM Project Portfolio 🔐  
 
-I’m passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work spans **Identity and Access Management (IAM)**, **vulnerability management**, and **threat detection**, giving me the chance to explore the fast-moving world of modern security.  
-Explore these projects to see how I design, automate, and secure identity systems that help improve operations and reduce risk.  
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes
 
 
 ---
