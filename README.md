@@ -15,7 +15,7 @@ Explore these projects to see how I design, automate, and secure identity system
 ## 🚨 Threat Detection & Security Operations  
 - **[Brute Force Attempt Detection]()**  
 - **[PowerShell Suspicious Web Request]()** 
-- **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
 ---
 **Extra Projects **
